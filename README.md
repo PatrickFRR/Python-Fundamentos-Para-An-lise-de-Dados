@@ -1,4 +1,19 @@
-# Python-Fundamentos-Para-Anlise-de-Dados
+# Python-Fundamentals-For-Data-Analysis
 
 
-Neste repositório, encontram-se as soluções aos exercícios propostos no curso Python Fundamentos Para Análise de Dados 3.0 disponibilizado pela Data Science Academy.
+In this repository you will find the solutions to the exercises proposed in the Python Foundations For Data Analysis 3.0 course provided by the Data Science Academy.
+
+
+## Exercicies 
+
+- Variables, data type, data structures
+- Methods and Funcitons
+- Objetc Orientation
+- Integrated Functions
+- 
+
+
+## Small projects
+
+- Database
+-
